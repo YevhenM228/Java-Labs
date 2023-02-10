@@ -3,7 +3,7 @@ package org.example.taxes;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
 
-class ComparatorSortAscTest {
+class SortAscTest {
 
     Taxes person = new Taxes();
     @Test
