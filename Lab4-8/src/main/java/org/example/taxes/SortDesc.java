@@ -2,7 +2,7 @@ package org.example.taxes;
 
 import java.util.Comparator;
 
-class ComparatorSortDesc implements Comparator<Income> {
+class SortDesc implements Comparator<Income> {
     @Override
     public int compare(Income o1, Income o2) {
 
